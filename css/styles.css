@@ -1,0 +1,15 @@
+#show-place {
+  display: none;
+}
+
+/*//.contact*/
+.places {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+
+.place:hover {
+  text-decoration: underline;
+  color: blue;
+}
